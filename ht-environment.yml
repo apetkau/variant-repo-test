@@ -1,0 +1,9 @@
+name: hail-test
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.7
+  - hail
+  - jupyterlab

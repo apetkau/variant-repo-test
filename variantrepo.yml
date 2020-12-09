@@ -1,0 +1,12 @@
+name: variantrepo
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - jupyterlab
+  - pyvcf
+  - htslib
+prefix: /home/apetkau/miniconda3/envs/variantrepo
